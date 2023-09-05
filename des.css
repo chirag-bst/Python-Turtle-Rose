@@ -1,0 +1,4 @@
+/* Change job description text color to red */
+.job-description {
+    color: red !important;
+}
